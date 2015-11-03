@@ -1,3 +1,4 @@
+//This is a game called "SHOOTING STAR"
 void setup()
 {
   size(500, 500);
