@@ -102,7 +102,8 @@ class Ship
 
   void render()
   {
-
+    
+    stroke(255,255,0);
     line(x, y, x1, y1);
     line(x1, y1, x2, y2);
     line(x2, y2, x3, y3);
